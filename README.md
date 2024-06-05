@@ -16,7 +16,5 @@ Con estes sensores poderiamos facer diferentes cousas utiles para o dia a dia no
 -podemos conectarlle unha bomba de auga ao rele e facer que se acenda cando o DHTT11 detecte unha humidade baixa (regar as plantas)
 
 
-
-
-
+![maqueta24](https://github.com/RROII/Domoticaroi/assets/171035964/a516871b-e6ea-4f36-9ff9-a35a5d4ab1a8)
 
