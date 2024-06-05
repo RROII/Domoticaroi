@@ -18,3 +18,4 @@ Con estes sensores poderiamos facer diferentes cousas utiles para o dia a dia no
 
 ![maqueta24](https://github.com/RROII/Domoticaroi/assets/171035964/a516871b-e6ea-4f36-9ff9-a35a5d4ab1a8)
 
+![4_roi (1)](https://github.com/RROII/Domoticaroi/assets/171035964/43933e84-0a0c-453f-a526-ddb2493ff19c)
